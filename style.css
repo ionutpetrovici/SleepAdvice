@@ -19,6 +19,7 @@ body {
 
 .advice-generator_output {
     background: #313A49;
+    border-radius: 20px;
     padding: 40px 20.4px 60.4px;
     display: flex;
     flex-flow: column nowrap;
