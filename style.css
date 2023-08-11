@@ -103,3 +103,9 @@ picture > img {
 .advice-generator_btn:hover > img {
     transform: rotate(135deg);
 }
+
+@media (max-width: 425px) {
+    .advice-generator {
+       width: 90%;
+    }
+}
